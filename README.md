@@ -12,9 +12,7 @@ transcription uses local **Whisper**, and compositing uses **FFmpeg** +
 
 ## Demo
 
-<a href="https://github.com/atmikshetty/RedditReel/blob/main/public/demo-reel.mp4"><img src="public/demo-thumbnail.png" width="240" alt="Click to watch the demo"></a>
-
-*Click the thumbnail to watch the demo.*
+https://github.com/user-attachments/assets/bfd00b9c-0c5b-422d-b604-f1c709ff675d
 
 > **Note:** The background gameplay footage in this demo is from
 > [this YouTube video](https://youtu.be/pyV68KvUwlw). RedditReel does not own
