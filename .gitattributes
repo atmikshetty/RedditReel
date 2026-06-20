@@ -1,0 +1,17 @@
+# Normalize line endings to LF in the repository regardless of OS.
+# On checkout, git respects core.autocrlf; this ensures source files
+# always use LF in the repo to avoid CRLF-related issues on Windows.
+
+* text=auto eol=lf
+
+# Binary files — never normalize
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.webm binary
+*.bin binary
+*.onnx binary
