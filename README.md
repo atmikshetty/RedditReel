@@ -8,11 +8,16 @@ TTS uses the open-weight **Kokoro-82M** model (via `kokoro-js`/ONNX),
 transcription uses local **Whisper**, and compositing uses **FFmpeg** +
 **Remotion**.
 
-**Demo reel — [watch in new tab](https://raw.githubusercontent.com/atmikshetty/RedditReel/main/public/demo-reel.mp4)**
+---
 
-A 56-second reel generated from a 2026 World Cup script with gameplay footage
-as the background. See the [Demo](#demo) section below for the full script and
-details.
+## Demo
+
+[**Click to watch the Demo**](https://github.com/atmikshetty/RedditReel/blob/main/public/demo-reel.mp4)
+
+> **Note:** The background gameplay footage in this demo is from
+> [this YouTube video](https://youtu.be/pyV68KvUwlw). RedditReel does not own
+> this footage — credit belongs to the original creator. See
+> [Choosing a background video](#choosing-a-background-video) for details.
 
 ---
 
@@ -47,46 +52,6 @@ details.
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
-
----
-
-## Demo
-
-Here's a sample reel generated with a short script about the 2026 World Cup,
-using gameplay footage as the background:
-
-**[Download demo reel (MP4, 5.3 MB)](public/demo-reel.mp4)**
-
-<details>
-<summary>Script used for this demo</summary>
-
-```
-Title: The Biggest World Cup Ever
-r/sports
-
-The 2026 World Cup is going to be absolutely massive. For the first time ever,
-forty-eight teams will compete across three countries. The United States,
-Canada, and Mexico are hosting together, bringing the tournament to sixteen
-cities.
-
-This isn't just another World Cup. It's a tournament that will span an entire
-continent. Imagine fans traveling from Toronto to Guadalajara, from Los
-Angeles to New York, following their teams across borders.
-
-The opening match kicks off in Mexico City at the iconic Estadio Azteca. The
-final will be held at MetLife Stadium in New Jersey. With forty-eight teams,
-there will be more underdog stories, more drama, and more moments that define
-a generation of football fans.
-
-The world has never seen anything quite like this.
-```
-
-</details>
-
-> **Note:** The background gameplay footage in this demo is from
-> [this YouTube video](https://youtu.be/pyV68KvUwlw). RedditReel does not own
-> this footage — credit belongs to the original creator. See
-> [Choosing a background video](#choosing-a-background-video) for details.
 
 ---
 
