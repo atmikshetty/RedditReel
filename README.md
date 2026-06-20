@@ -8,6 +8,12 @@ TTS uses the open-weight **Kokoro-82M** model (via `kokoro-js`/ONNX),
 transcription uses local **Whisper**, and compositing uses **FFmpeg** +
 **Remotion**.
 
+**Demo reel — [watch in new tab](https://github.com/atmikshetty/RedditReel/raw/main/public/demo-reel.mp4)**
+
+A 56-second reel generated from a 2026 World Cup script with gameplay footage
+as the background. See the [Demo](#demo) section below for the full script and
+details.
+
 ---
 
 ## Table of contents
