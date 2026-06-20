@@ -655,7 +655,7 @@ subscribe to the SSE stream at `/api/reels/{jobId}/stream` for progress.
 | Field | Type | Required | Default | Description |
 |-------|------|----------|---------|-------------|
 | `text` | string | yes | — | Script text (5 - 1000 words, max 5000 chars) |
-| `sourceUrl` | string | yes | — | Video URL (YouTube/TikTok/etc.) or local file path |
+| `sourceUrl` | string | yes | — | YouTube video URL or local file path |
 | `voiceId` | string | no | `af_heart` | Kokoro voice (see [TTS voices](#tts-voices)) |
 | `tone` | string | no | `storytelling` | `dramatic`, `neutral`, or `storytelling` |
 | `quality` | string | no | `standard` | `draft`, `standard`, or `high` |
